@@ -1,0 +1,24 @@
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            
+        }
+
+        button
+         {
+            background-color: gainsboro;
+            border: gray; 
+            border-radius: 12px; 
+            width: 60px; 
+            height: 30px; 
+            border: 1px solid black; 
+        }
+
+        button:active {
+            background-color: lightgray;
+        }
+
+        
+ 
+    </style>
